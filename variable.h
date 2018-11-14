@@ -2,8 +2,8 @@
 
 #define width  610
 #define height 640
-int border = 5;
-int scrboard = 30;
+#define border  5
+#define scrboard  30
 
 int spd = 65;
 int len = 5;
